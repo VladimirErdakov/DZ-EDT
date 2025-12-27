@@ -12,6 +12,7 @@
     <key>ru</key>
     <value>Должности</value>
   </synonym>
+  <comment>Используется в справочнике контактные лица контрагентов</comment>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Catalog.Должности.StandardAttribute.Code</inputByString>
   <inputByString>Catalog.Должности.StandardAttribute.Description</inputByString>
